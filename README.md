@@ -4,7 +4,7 @@ Nmap Documentation.
 	 Network Scanning & Enumeration Using Nmap
 
 BY: S Aryan Malto
-PRN: SOM25MCA048
+
 DATE: 19-03-2026
 
 Cybersecurity is an important aspect for organizations trying to secure their networks and systems from security breaches. To make sure the networks and systems are secure companies hire penetration testers who hack through the system and search for exploitable vulnerabilities to fix them. This process in a nutshell is called penetration testing. Scanning and enumeration are two significant phases of a penetration test as it aims to search and identify vulnerabilities throughout the network or system using various tools and techniques. In this article, we are going to deep dive into the scanning and enumeration aspect of a penetration test.
